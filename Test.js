@@ -7,3 +7,5 @@ console.log('some changes 2')
 console.log('hotfix changes')
 
 console.log('test --amend')
+
+console.log('test rename')
